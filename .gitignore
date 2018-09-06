@@ -1,0 +1,9 @@
+
+
+Listings
+
+Objects
+
+project/*
+!project/BBN_STM32Test.uvoptx
+!project/BBN_STM32Test.uvprojx
